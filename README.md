@@ -2,7 +2,7 @@
 
 Thank you for applying to join the Ceres Engineering team!
 
-To serve as a springboard for discussion when we meet with you in real-time, we would you to think through/plan out an approach to a scenario that we can talk through together with you. Your mission: to run a simple, publicly-hosted HTTP service for geospatial map data! We have a few details and constraints that we’d like you to be prepared to speak to:
+To serve as a springboard for discussion when we meet with you in real-time, we would you to think through/plan out an approach to a scenario that we can talk through together with you. Your mission: to run a simple, publicly-hosted HTTP service for geospatial map imagery! We have a few details and constraints that we’d like you to be prepared to speak to:
 
 * Use of load balancer to handle spikes of large queries of imagery
 * Use of security groups
