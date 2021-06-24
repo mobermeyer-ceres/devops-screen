@@ -7,12 +7,12 @@ To serve as a springboard for discussion when we meet with you in real-time, we 
 * Use of load balancer to handle spikes of large queries of imagery
 * Use of security groups
 * Use of containers
-* Use of Terraform to reproduce your work for production and test environments
+* Use of infrastructure as code tools (Terraform, Ansible, etc) to reproduce your work for production and test environments
 * Logging and monitoring and how you would use that information
 * Documentation around your approach
 * Incorporation into CI/CD
 * Approach to shipping updates to the solution with minimal / no downtime
 
-We want to get an understanding of your experience and your creativity, discuss possible alternative approaches to some of these areas, the related tradeoffs, and what areas might be really easy and what errors might be challenging.
+We want to get an understanding of your experience and your creativity, discuss possible alternative approaches to some of these areas, the related tradeoffs, and what areas might be really easy and what errors might be challenging. You do not need to write any code for this tech screen - just come prepared to talk about your ideas!
 
 We look forward to talking through this with you!
