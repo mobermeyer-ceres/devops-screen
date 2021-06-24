@@ -8,7 +8,7 @@ To serve as a springboard for discussion when we meet with you in real-time, we 
 * Use of security groups
 * Use of containers
 * Use of Terraform to reproduce your work for production and test environments
-* Logging and monitoring
+* Logging and monitoring and how you would use that information
 * Documentation around your approach
 * Incorporation into CI/CD
 * Approach to shipping updates to the solution with minimal / no downtime
